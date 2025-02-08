@@ -1,31 +1,7 @@
-The Project Gutenberg EBook of Jonah's Luck, by Fergus Hume
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
+*** START OF THE PROJECT GUTENBERG EBOOK 56385 ***
 
 
 
-Title: Jonah's Luck
-
-Author: Fergus Hume
-
-Release Date: January 16, 2018 [EBook #56385]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK JONAH'S LUCK ***
-
-
-
-
-Produced by Charles Bowen from page scans provided by
-Google Books (the University of Wisconsin-Madison)
 
 
 
@@ -2910,7 +2886,7 @@ was half asleep when we came away."
 "I'm a detective for the time being," rejoined Kind, coolly, "and
 recall some of my decent lingo. When I'm a Cheap-jack again, I'll slip
 back into the Whitechapel vernacular. I've been an actor in my time,
-and know how to suit my language to my _rôle_ for the time being," and
+and know how to suit my language to my _rÃ´le_ for the time being," and
 again he bent over his sleeping wife.
 
 "You here," muttered Browne taking Herries' hand, and devouring his
@@ -5946,7 +5922,7 @@ they were in search of.
 disappointed air, "I'll turn up the index. Often names that are not
 set down on the map, are catalogued there." He ran his finger down the
 page. "Ta,--Tag,--Tap,--Tar,--here you are, Kind. Tarabacca, Map 45,
-Lat. 44, Long. 73° 6 E," again he reverted to the map. "Yes. It's
+Lat. 44, Long. 73Â° 6 E," again he reverted to the map. "Yes. It's
 certainly in Indiana, for here is the Republic in the latitude
 referred to. Tarabacca isn't set down here, but as it's in the same
 latitude, you may depend that it's a town or a lake or a mountain in
@@ -6180,7 +6156,7 @@ feeling his way, for he could not quite understand the situation.
 mean,--yes, ma'am."
 
 "I am neither French nor English. My name is Donna Maria Guzman. You
-can address me as Señora. Why have you come here?"
+can address me as SeÃ±ora. Why have you come here?"
 
 "To restore this," replied Kind, displaying the shawl.
 
@@ -6205,7 +6181,7 @@ at least one of them.
 somewhat unnecessary, "to see if the murderer of Sir Simon Tedder
 would be found."
 
-"Why, ma'am--I mean, Señora?"
+"Why, ma'am--I mean, SeÃ±ora?"
 
 "Sir Simon was doing business with me in connection with the Republic
 of Indiana, through--" she glanced at the portrait.
@@ -6233,13 +6209,13 @@ quickly.
 "Well, ma'am, I don't see why you should tell me your private
 business, as I am only a poor cove as gets his living hard."
 
-Señora Guzman sat down, and resting her cheek on her hand, looked at
+SeÃ±ora Guzman sat down, and resting her cheek on her hand, looked at
 him thoughtfully.
 
 "You seem to be a sharp fellow," she said again, "and as you have come
 here rather opportunely, I wish to make use of you."
 
-"Yes, ma'am--I mean Señora."
+"Yes, ma'am--I mean SeÃ±ora."
 
 "I'll pay you well," she continued, "on condition that you hold your
 tongue."
@@ -6261,7 +6237,7 @@ simplicity.
 character. It did not. I am sorry for the young man, and I wish to
 save him if possible. Do you know where he is?"
 
-"No, Señora. He has vanished."
+"No, SeÃ±ora. He has vanished."
 
 "I thought you might have seen him," she muttered, with her eyes on
 the carpet and a look of perplexity on her face. "I am placed in a
@@ -6297,7 +6273,7 @@ he served this lady's ends, since she also was bent upon saving
 Herries, and hanging the real culprit. If the murderer was a political
 adversary, she would certainly be doing a good service to her father.
 
-"What do you wish me to do, Señora?" he asked.
+"What do you wish me to do, SeÃ±ora?" he asked.
 
 "Search for the real murderer and bring Mr. Herries to me, that is, if
 you can find his whereabouts. I want to get at the truth of this
@@ -6325,7 +6301,7 @@ talk, a knife thrust will soon silence you."
 
 "This is England, and not lawless Indiana," retorted Kind.
 
-"All the same, you have had your warning," replied Señora Guzman in a
+"All the same, you have had your warning," replied SeÃ±ora Guzman in a
 careless tone. "Here," she took out a gold net purse, and produced
 from it a couple of sovereigns, "this is for bringing back the shawl.
 I will pay you well, if you will keep your eyes open, and find this
@@ -6345,7 +6321,7 @@ Captain Kyles had something to do with the crime, although to be sure,
 his doubts were founded upon uncertain evidence. He put the matter to
 an immediate test.
 
-"Will I report to Captain Kyles, Señora?" he asked, with simplicity.
+"Will I report to Captain Kyles, SeÃ±ora?" he asked, with simplicity.
 
 "No. Certainly not. Why should you report to Captain Kyles?" she asked
 quickly, and with sudden suspicion.
@@ -6363,7 +6339,7 @@ became aware that there was method in her rashness. All the same he
 had not yet learned if she loved Kyles, and ventured again to feel his
 way.
 
-"Well, Señora, I daresay the Captain will be glad enough, not to be
+"Well, SeÃ±ora, I daresay the Captain will be glad enough, not to be
 bothered with me while he's better employed."
 
 "What do you mean?" asked Donna Maria, abruptly, and her eyes narrowed
@@ -6385,7 +6361,7 @@ lips tightened and her eyes flashed fire. "Do you mean to say that
 anyone--anyone--" she clasped her throat as though she were choking,
 "that anyone dares to--to report this--this engagement?"
 
-"Dr. Browne says Miss Tedder is to marry the Captain, Señora."
+"Dr. Browne says Miss Tedder is to marry the Captain, SeÃ±ora."
 
 Donna Maria's hands clenched themselves, and she spoke more to herself
 than to her companion.
@@ -6400,7 +6376,7 @@ herself with difficulty.
 "Yes," replied Kind promptly, and lying advisedly, "she inherits fifty
 thousand a year from her father."
 
-Señora Guzman passed a lace handkerchief across her mouth.
+SeÃ±ora Guzman passed a lace handkerchief across her mouth.
 
 "It's a great deal of money. She is pretty too,--a doll though; not
 like----" she glanced in the near mirror at her splendid face, and
@@ -6423,7 +6399,7 @@ AN UNEXPECTED ARRIVAL
 
 
 Sweetlips Kind returned to Desleigh with his head whirling. He could
-not quite understand Señora Guzman; and Herries, when the conversation
+not quite understand SeÃ±ora Guzman; and Herries, when the conversation
 was reported to him, likewise expressed his inability to comprehend.
 The two men talked the matter over earnestly, and tried to arrive at
 some conclusion, but the whole matter was so enigmatical that they
@@ -6473,7 +6449,7 @@ he went out in the morning disguised as his victim."
 "Because he would have run a bigger risk by leaving immediately he had
 killed his man. The sailors from the 'Tarabacca' were outside, and if
 he had fallen into their hands he might have been killed himself.
-Señora Guzman is not a woman to stick at a trifle."
+SeÃ±ora Guzman is not a woman to stick at a trifle."
 
 "Armour, whom they thought was their man, was not killed."
 
@@ -6491,11 +6467,11 @@ implicated?"
 
 "And how will we find him?"
 
-"Ah!" Kind shook his head. "You have me there. Señora Guzman knows."
+"Ah!" Kind shook his head. "You have me there. SeÃ±ora Guzman knows."
 
 "Are you sure?" demanded Herries, sitting up.
 
-"As sure as anyone can be with so puzzling a woman. Señora Guzman must
+"As sure as anyone can be with so puzzling a woman. SeÃ±ora Guzman must
 certainly know the members of the political party opposed to her
 father. One or more of those members may have come to England to
 thwart her mission of buying battle-ships, and so may have tampered
@@ -6526,7 +6502,7 @@ Ritson."
 Kind nodded.
 
 "I'll go to Tarhaven to-morrow. Then Elspeth is at Armour's, and can
-remain there for a time. As soon as we know what Señora Guzman intends
+remain there for a time. As soon as we know what SeÃ±ora Guzman intends
 to do, we can go to Colchester in this here caravan, and you'll be
 safe. Trent can hunt about as he likes. He'll never think of looking
 here for you."
@@ -6575,7 +6551,7 @@ this he would not do, as he wanted to find out how Maud Tedder took
 the news that she had been disinherited, and also he desired to learn
 what difference her disinheriting would make to Kyles' affections. If
 he was after the money solely, he would probably break the engagement,
-and return to Señora Guzman, and the "Tarabacca." If, however, he
+and return to SeÃ±ora Guzman, and the "Tarabacca." If, however, he
 really loved the girl, he would undoubtedly try and get Herries hanged
 in order that she should get the fortune. But Kind could learn
 nothing, as after the funeral and the reading of the will, Ritson had
@@ -6603,7 +6579,7 @@ come of their doing so. It was certain, therefore, that Mrs. Narby's
 avoidance of Elspeth, lay in the fact that she was under Armour's
 roof. And she was very glad of the refuge.
 
-Meanwhile Señora Guzman made no move either to see Sweetlips, or to
+Meanwhile SeÃ±ora Guzman made no move either to see Sweetlips, or to
 seek out the political assassin. Perhaps she was waiting until such
 time as Kind would produce Herries, and then, when the accused man was
 in her presence, she might have made up her mind to speak out. Several
@@ -6685,7 +6661,7 @@ claim it."
 
 "I can't claim it until I learn who killed my uncle."
 
-"Quite so, and you can learn that from Señora Guzman."
+"Quite so, and you can learn that from SeÃ±ora Guzman."
 
 "Is she still at Pierside?"
 
@@ -6709,7 +6685,7 @@ how she stands."
 
 "In what way?" asked Herries, puzzled.
 
-"Well," drawled Kind, again filling his pipe, "if Señora Guzman knew
+"Well," drawled Kind, again filling his pipe, "if SeÃ±ora Guzman knew
 that you get the money if the real assassin of Sir Simon is
 discovered, she would make it her business to tell who he is, because
 in that way she would keep Miss Tedder out of the money, and Kyles,
@@ -6724,7 +6700,7 @@ this lady. It's to her interest not to split on you."
 my father appears. He must have heard something when he was sleeping
 in the tap-room, and perhaps he'll know the truth."
 
-"Señora Guzman knows the truth also, and she is at hand, while your
+"SeÃ±ora Guzman knows the truth also, and she is at hand, while your
 father isn't," retorted the Cheap-jack.
 
 "Are you sure she knows the truth?"
@@ -6765,7 +6741,7 @@ making for the Tedder cash, and he'll marry the girl."
 
 "He won't get the money, however," said Elspeth quickly.
 
-"He will, unless Mr. Herries joins forces with Señora Guzman, and
+"He will, unless Mr. Herries joins forces with SeÃ±ora Guzman, and
 learns the truth. It's all politics, and she alone can put us on the
 track of the real assassin. See her, Mr. Herries--and at once."
 
@@ -7865,7 +7841,7 @@ be upset, he had returned to the "Tarabacca" at Pierside, and beyond a
 few cold notes had refrained from paying her any attention. In effect
 he showed that, now she was poor he did not intend to marry her, and
 after Gowrie's hint, Maud was certain that the Captain was engaged to
-Señora Guzman. She had been made a catspaw of, and if Herries was not
+SeÃ±ora Guzman. She had been made a catspaw of, and if Herries was not
 hanged and Kyles re-captured to be her husband, she had fully made up
 her spiteful mind to revenge herself. However, since there were
 difficulties in the way, she called to see Elspeth and propose a
@@ -7886,7 +7862,7 @@ in order to save his son-in-law.
 
 Elspeth remained within doors for a certain reason. After hearing
 Kind's account of his visit to the "Tarabacca," she became certain
-that Señora Guzman was in possession of facts which might help to
+that SeÃ±ora Guzman was in possession of facts which might help to
 prove the innocence of her husband. Since Sir Simon had written that
 mysterious letter to someone on the yacht, why not to this Captain
 Kidd in petticoats? Then there was the hint of the treasure--Manco
@@ -7894,18 +7870,18 @@ Capac's treasure--which Kind professed himself unable to understand.
 And Kyles himself might know something. By awakening the jealousy of
 the Mexican beauty, the truth might be arrived at concerning the
 kidnapping of Armour, and that, as Elspeth argued, was in some way
-connected with the death of Sir Simon Tedder. After all, as Señora
+connected with the death of Sir Simon Tedder. After all, as SeÃ±ora
 Guzman had hinted to Kind, it might be simply a political crime, in
 which case, Donna Maria would have the less hesitation in telling the
 plain facts of the assassination. Taking all these facts into
-consideration, Mrs. Herries had written to Señora Guzman asking her to
+consideration, Mrs. Herries had written to SeÃ±ora Guzman asking her to
 call at Tarhaven and have a chat, and the Mexican lady had graciously
 assented to the request. When Miss Tedder's card was brought in
 Elspeth saw in her arrival much more than a mere chance. Providence
 had brought the two women who loved Bruce Kyles into contact, and the
 possible quarrel between the two might result in the truth becoming
 known. Of course Elspeth was groping in the dark, as she did not yet
-see what Maud, or Señora Guzman, or Bruce Kyles, could have to do with
+see what Maud, or SeÃ±ora Guzman, or Bruce Kyles, could have to do with
 the murder; but that they had something to do with the death of the
 millionaire she was very certain; and therefore was ready to take
 every advantage of Miss Tedder's visit.
@@ -8138,7 +8114,7 @@ Maud was quite sick. She was terribly afraid of this reckless girl,
 who dared to lay hands on her. There was nothing for it, but to tell
 the truth so far as she knew it.
 
-"Señora Guzman murdered my father," she cried, grovelling.
+"SeÃ±ora Guzman murdered my father," she cried, grovelling.
 
 Mrs. Herries was so surprised that she released her hold, and stepped
 back a pace to see if Maud was speaking truly.
@@ -8149,7 +8125,7 @@ back a pace to see if Maud was speaking truly.
 didn't give up Bruce, and asked her to meet him at the 'Marsh Inn' to
 see if she could take Bruce away from me."
 
-"It might be true," murmured Elspeth, recalling that Señora Guzman
+"It might be true," murmured Elspeth, recalling that SeÃ±ora Guzman
 smoked the brand of cigarette found in Herries' room. "But why did she
 kill your father?"
 
@@ -8199,7 +8175,7 @@ nothing. Moreover, the fortune will not be your husband's until he
 discovers the criminal. Oh, there are many reasons why your forced
 promise to Miss Tedder need not be kept."
 
-"But if she is right in saying that Señora Guzman is the guilty
+"But if she is right in saying that SeÃ±ora Guzman is the guilty
 person, she will have done everything towards getting the fortune for
 Angus."
 
@@ -8209,19 +8185,19 @@ escapes, it will be no thanks to her."
 "Do you think she is telling the truth?"
 
 "I really can't say," murmured Kind, nursing his chin. "Of course she
-is jealous of Señora Guzman, and would do anything to get her out of
+is jealous of SeÃ±ora Guzman, and would do anything to get her out of
 the way. It seems to me that Captain Bruce Kyles is trifling with both
 these women. Tell me again exactly what Miss Tedder said."
 
 Elspeth thought for a moment.
 
 "She said that her father wrote the letter, which Mr. Ritson mentioned
-to you, to Señora Guzman, asking her to come to the 'Marsh Inn.' She
+to you, to SeÃ±ora Guzman, asking her to come to the 'Marsh Inn.' She
 came, and Sir Simon proposed to pay her enough money to fit out some
-expedition, on condition that she,--the Señora that is,--took Captain
+expedition, on condition that she,--the SeÃ±ora that is,--took Captain
 Bruce Kyles away from England,--removed him from Maud's path in fact."
 
-"Humph. I remember Señora Guzman's reference to an expedition in
+"Humph. I remember SeÃ±ora Guzman's reference to an expedition in
 search of some treasure. It might be, that her real reason in coming
 to England was to get funds. But if this Mexican lady loves Kyles, and
 Sir Simon was willing to pay her for loving him, why did she murder
@@ -8236,7 +8212,7 @@ useless crime? I don't believe she did it."
 "But you remember," Elspeth reminded him, "you remember that you found
 the stump of a Tangerian cigarette on the floor of----"
 
-"Yes, yes,--and Señora Guzman smokes that brand. But other people may
+"Yes, yes,--and SeÃ±ora Guzman smokes that brand. But other people may
 smoke the same sort of cigarettes,--for instance Captain Kyles," and
 Sweetlips looked keenly at Elspeth.
 
@@ -8248,7 +8224,7 @@ places at once, could he? But then that kidnapping--the crew of the
 'Tarabacca' certainly kidnapped Armour under the impression that he
 was some spy,--that looks as though their mistress was in the hotel at
 the time, and they were removing danger from her path. And again,
-Señora Guzman could easily swarm up those light trellis spars under
+SeÃ±ora Guzman could easily swarm up those light trellis spars under
 the window of the bedroom."
 
 "In petticoats?"
@@ -8268,7 +8244,7 @@ husband's bedroom she must have been there."
 "Well," drawled the Cheap-jack, with his eyes on the ground, "as I
 said, other people may have smoked such a brand;--one of the officers
 on board, for instance. Kyles is innocent, and I am not prepared to
-say that Señora Guzman is guilty. But she certainly might have
+say that SeÃ±ora Guzman is guilty. But she certainly might have
 implicated your husband in the crime by placing the razor on his bed
 and hiding the pocket-book under it. The best thing to do will be to
 question her, and inform her of Miss Tedder's accusation. I thought
@@ -8550,7 +8526,7 @@ gie ye tae mak ye sleep."
 stairs. There, I'll tell ye nae mair. I dinna ken wha the female was.
 Maybe the landlady?"
 
-"Or Señora Guzman," replied Herries, much perplexed.
+"Or SeÃ±ora Guzman," replied Herries, much perplexed.
 
 
 
@@ -8773,7 +8749,7 @@ placed the pocket-book in my room to----"
 "No, no, she would rob, and scold, and do many things, but at heart she
 is a coward and would never risk her neck."
 
-"Well, then, perhaps the woman who went down the stairs was Señora
+"Well, then, perhaps the woman who went down the stairs was SeÃ±ora
 Guzman."
 
 "I don't see how she could have got into the inn."
@@ -8788,8 +8764,8 @@ she removed Kyles from Maud's path."
 
 Angus shrugged his shoulders.
 
-"Of course. Maud is a jealous rival and would hang Señora Guzman at
-once if she could manage to do it. It was strange that Señora Guzman
+"Of course. Maud is a jealous rival and would hang SeÃ±ora Guzman at
+once if she could manage to do it. It was strange that SeÃ±ora Guzman
 was not at the trial to-day."
 
 "Why should she have come?"
@@ -9008,16 +8984,16 @@ Captain Kyles at Mr. Ritson's office, asking for a meeting at the
 'Marsh Inn,' and telling him that he had disinherited Maud, because
 she insisted upon marrying him."
 
-"But Maud herself said that the letter was written to Señora Guzman,"
+"But Maud herself said that the letter was written to SeÃ±ora Guzman,"
 put in Elspeth.
 
 "Alas, that is merely jealousy, Maud knows that Captain Kyles will
-marry Señora Guzman, failing herself, and so wishes to remove a rival
+marry SeÃ±ora Guzman, failing herself, and so wishes to remove a rival
 from her path. All love, Mrs. Herries, all love."
 
 "Humph," said Angus, "I must say that Maud has a very pretty way of
 getting rid of people. She was willing to hang me; she is willing to
-hang Señora Guzman; and all to marry the man who killed her father. A
+hang SeÃ±ora Guzman; and all to marry the man who killed her father. A
 nice person, upon my word."
 
 "A cutty--a slut--a jade!" said Gowrie wrathfully. "Maud doesn't know
@@ -9041,7 +9017,7 @@ Maud saying that he was putting up there for a week."
 "No. He simply said that he was there, and would see her before he
 returned to the 'Tarabacca,' which is still at Pierside."
 
-"With Señora Guzman on board?"
+"With SeÃ±ora Guzman on board?"
 
 "I suppose so. But I want you, Mr. Herries, to have Captain Kyles
 arrested and his guilt proved. Then you can give Maud a sum of money,
@@ -9085,7 +9061,7 @@ to."
 "He would suspect me, he won't suspect you. You can go to-morrow."
 
 "And what will you do, Angus?" asked Elspeth. "I'll go to Pierside and
-interview Señora Guzman."
+interview SeÃ±ora Guzman."
 
 "Do you believe that Captain Kyles is guilty, Angus?"
 
@@ -9825,14 +9801,14 @@ anchor in South American waters."
 "But there may be an extradition treaty between Indiana Republic and
 Great Britain."
 
-"There is. But I'm not going back to Indiana. The President Señor
+"There is. But I'm not going back to Indiana. The President SeÃ±or
 Guzman, who was my friend, has been kicked out, and his enemy is in
 power. Of all his wealth and mine, this yacht only remains. I came to
 England to get money."
 
 "And nae tae purchase war-ships."
 
-"Pooh, that was a blind. However, to make a long story short, Señor
+"Pooh, that was a blind. However, to make a long story short, SeÃ±or
 Guzman is waiting for me and his daughter in a certain spot in South
 America which does not concern you. From that place we start out to
 find the treasure of Manco Capac. But to do so, I wanted money, and
@@ -9848,19 +9824,19 @@ my plans to bring Herries on board to-morrow."
 
 "But I thocht he wis on board," said Gowrie perplexed. "When he sent
 me tae spy oot the land at the 'Marsh Inn,' he wis ganging tae
-Pierside to see Señora Guzman. Miss Tedder accuses her o' the crime."
+Pierside to see SeÃ±ora Guzman. Miss Tedder accuses her o' the crime."
 
 "The devil she does. Then I can tell you it's a lie," cried Kyles, his
-dark face flushing, "Señora Guzman has nothing to do with these
+dark face flushing, "SeÃ±ora Guzman has nothing to do with these
 things. As to Herries,--I daresay he went to Pierside, but this boat
 left there early this morning. However, that makes things easier.
-Señora Guzman will invite him on board, and explain that she is
+SeÃ±ora Guzman will invite him on board, and explain that she is
 entirely innocent."
 
 "And will you confess your guilt, Captain?"
 
 "I never said that I was guilty," retorted Kyles dryly, "don't jump to
-conclusions, Gowrie. Miss Tedder accuses Señora Guzman."
+conclusions, Gowrie. Miss Tedder accuses SeÃ±ora Guzman."
 
 "Aye, and Mistress Mountford accuses you."
 
@@ -9938,7 +9914,7 @@ ANOTHER MYSTERY
 As guessed by Captain Kyles, Herries' visit to Pierside had been
 unproductive of result. On arriving there, he found that the yacht had
 left for an unknown destination, and returned to Tarhaven quite
-certain that Señora Guzman, and the buccaneer had left England for
+certain that SeÃ±ora Guzman, and the buccaneer had left England for
 good. This was a great disappointment to the young man, as he did not
 see how the mystery of Sir Simon's death was to be explained without
 getting the evidence of the Mexican lady. He came back to tell Browne
@@ -10057,12 +10033,12 @@ was kidnapped because his wife had been Maud's nurse."
 "My dear," Herries took her in his arms, "you see a bird in every
 bush, as this case has got on your nerves. I don't see the least
 connection between Armour's kidnapping, and Mrs. Armour's early
-employment. I agree with Señora Guzman, and believe that the
+employment. I agree with SeÃ±ora Guzman, and believe that the
 kidnapping was a political affair."
 
 "In what way?"
 
-"Well, you see, Señora Guzman is the daughter of the ex-President of
+"Well, you see, SeÃ±ora Guzman is the daughter of the ex-President of
 Indiana, and with Kyles, as the commander of their tin-pot navy, she
 came home to get war-ships, so as to regain possession of the Republic
 if possible. Naturally the new President not wanting a civil war, must
@@ -10147,7 +10123,7 @@ arrested for----"
 
 "There--there," interrupted the young man wincing, for he did not like
 to be reminded of that ugly episode. "Take me to the lady. I expect
-it's Señora Guzman, or Maud."
+it's SeÃ±ora Guzman, or Maud."
 
 The stuffy parlour looked a duller apartment than ever as Herries
 opened the door and stepped in. He half expected to see Maud, but
@@ -10161,7 +10137,7 @@ surprised to meet me here, instead of your father-in-law."
 "What, you know----?"
 
 "I know that Mr. Gowrie wrote you a letter asking you to come to this
-place," said Señora Guzman composedly.
+place," said SeÃ±ora Guzman composedly.
 
 "Then you know where he is?"
 
@@ -10194,7 +10170,7 @@ fifty thousand a year, on certain conditions."
 
 "Ah, but those conditions were not mentioned in the newspapers."
 
-"Quite so," rejoined Señora Guzman, resuming her seat, "but we learned
+"Quite so," rejoined SeÃ±ora Guzman, resuming her seat, "but we learned
 the conditions from another person."
 
 "We?"
@@ -10205,7 +10181,7 @@ the conditions from another person."
 madame, but I should like to know if you and Captain Kyles are in
 partnership?"
 
-Señora Guzman laughed in her turn.
+SeÃ±ora Guzman laughed in her turn.
 
 "You might put it that way," she said, resting her elbow on the shaky
 round table, and her chin on the back of her locked fingers. "Captain
@@ -10219,7 +10195,7 @@ painful truths, when I see her."
 
 "Are you going to see her?"
 
-"To-day and here," Señora Guzman glanced at a bracelet watch, "in a
+"To-day and here," SeÃ±ora Guzman glanced at a bracelet watch, "in a
 quarter of an hour. I wrote and asked her to come here."
 
 "Why here?"
@@ -10257,7 +10233,7 @@ Herries thought for a few moments.
 
 "I know that my cousin has not acted well," he said hesitatingly, "all
 the same, this unfortunate engagement with Captain Kyles, and one
-which you admit, Señora, he never intended to fulfil, may have driven
+which you admit, SeÃ±ora, he never intended to fulfil, may have driven
 her into courses, which in more unemotional moments she would not have
 entered into."
 
@@ -10266,7 +10242,7 @@ entered into."
 "I have had much trouble in my life," said Angus simply, "and it has
 taught me to judge no one."
 
-"I think you are a good man," said Señora Guzman, looking at him in a
+"I think you are a good man," said SeÃ±ora Guzman, looking at him in a
 softened manner. "All the better. Captain Kyles and myself will have
 all the more pleasure in placing you in possession of your property."
 
@@ -10332,7 +10308,7 @@ needful. But we promised Sir Simon a share of the----"
 
 Scarcely had she got this far, when they heard the shrill scream of a
 woman in the tap-room. Herries sprang from his chair, and opened the
-door hurriedly. When he and Señora Guzman walked hastily into the
+door hurriedly. When he and SeÃ±ora Guzman walked hastily into the
 tap-room, they found Maud Tedder in the grasp of Armour the policeman,
 who was in plain clothes. Herries flung himself forward, and threw the
 bulky man to one side.
@@ -10352,7 +10328,7 @@ pointed a stumpy finger at Miss Tedder, "she knows summat about it,
 she does."
 
 "It's a lie," gasped Maud, shaking from head to foot, while the eyes
-of Señora Guzman lighted up and she took an eager step forward.
+of SeÃ±ora Guzman lighted up and she took an eager step forward.
 
 "Oh," raved the ex-policeman, while Alice lost her head and flew out
 of doors shouting for help, "is it a lie that she," he pointed again
@@ -10389,7 +10365,7 @@ she vehemently denied the accusation.
 "It's a he,--a lie," she murmured, trying to keep from fainting, "oh,
 how dare you, how----" here nature would have her way, and Maud sank
 unconscious on the ground. Armour continued his vociferations, so
-Herries gave the insensible girl to Señora Guzman, who received her
+Herries gave the insensible girl to SeÃ±ora Guzman, who received her
 with reluctance, and caught Armour by the collar.
 
 "Do you know what you are saying?" he demanded, shaking the man in a
@@ -10521,7 +10497,7 @@ are settled we must see if we can get you a good home," and so saying
 he patted the miserable Alice on her head of tangled hair and walked
 into the parlour.
 
-Maud had revived, as Señora Guzman had dashed water on her face with
+Maud had revived, as SeÃ±ora Guzman had dashed water on her face with
 no gentle hand, and was now standing at the end of the room, looking
 at her with extreme aversion. Maud herself, with all the spirit
 knocked out of her, was seated at the table with her face hidden in
@@ -10540,7 +10516,7 @@ more sorry than I was when he was killed."
 
 "I thought you had killed pa."
 
-"What? When you accused Señora Guzman of the crime, to my wife."
+"What? When you accused SeÃ±ora Guzman of the crime, to my wife."
 
 The Mexican lady started, and her fine eyes flashed. "You accused me,"
 she said, drawing herself up.
@@ -10557,7 +10533,7 @@ laughed coldly.
 "You were in the neighbourhood, you set those men on Armour," cried
 Maud viciously, and rearranging her disordered dress.
 
-"Oh, I don't mind acknowledging that," retorted Señora Guzman with a
+"Oh, I don't mind acknowledging that," retorted SeÃ±ora Guzman with a
 curling lip, "I have nothing to conceal. I accompanied Captain Kyles
 from Pierside in the launch, and remained on board, while he went up
 to see Sir Simon at this inn. Captain Kyles told me that he suspected
@@ -10609,7 +10585,7 @@ She quivered at this and choked.
 poor little me. I have enemies," and she scowled at the Mexican lady
 in a most venomous manner.
 
-"I am not afraid," said Señora Guzman sitting down near the door. "You
+"I am not afraid," said SeÃ±ora Guzman sitting down near the door. "You
 would like to kill me with a look, and marry Bruce, but you will not.
 Oh no, he will be my husband."
 
@@ -10627,7 +10603,7 @@ twisted with rage and grief.
 "Ah, you cat. Wait till I see him face to face. He can't resist me. He
 never loved you--never, never, never."
 
-Señora Guzman laughed again in the most irritating manner.
+SeÃ±ora Guzman laughed again in the most irritating manner.
 
 "You will never see him face to face. We go away, he and I, from this
 land of yours to South America. There we shall be happy."
@@ -10663,7 +10639,7 @@ brought her back.
 badly as you have treated me, I am still your friend--your only
 friend."
 
-"And you need a friend," observed Señora Guzman, surveying the girl
+"And you need a friend," observed SeÃ±ora Guzman, surveying the girl
 with coldly critical eyes.
 
 "You cat," cried Maud turning on her viciously, then dropped into a
@@ -10672,7 +10648,7 @@ creature as I am? I've lost my money and my father, and----"
 
 "And your lover."
 
-"Pray be silent, Señora," said Herries, rather disgusted.
+"Pray be silent, SeÃ±ora," said Herries, rather disgusted.
 
 "I will not," she retorted fiercely, "why should I be silent, when she
 tried to take my lover from me? She knew that he was engaged to me,
@@ -10691,12 +10667,12 @@ he kissed me."
 
 "What! He--told--you."
 
-"Yes," snapped the Señora, "we wanted money,--heaps of money. Sir
+"Yes," snapped the SeÃ±ora, "we wanted money,--heaps of money. Sir
 Simon knew that we didn't want war-ships, but only money for this
 treasure expedition. At first he would lend, then he would not. Then
 since you were so shameless----"
 
-"Señora, Señora," pleaded Herries, quite helpless between these two
+"SeÃ±ora, SeÃ±ora," pleaded Herries, quite helpless between these two
 fierce creatures quarrelling over a man.
 
 "I must speak," she cried loudly, and striking the table with her
@@ -10718,7 +10694,7 @@ Simon that he would take you away. Sir Simon forbade you to think of
 Bruce. You persisted, and then he said he would cut you out of his
 will. He wrote a letter to Brace telling him that he had done so, and
 asked him to meet him at this inn, offering to bribe him to give you
-up. You," said Señora Guzman with an insulting laugh, "you, for whom
+up. You," said SeÃ±ora Guzman with an insulting laugh, "you, for whom
 Bruce cared nothing. Bruce said that he would take two thousand pounds
 more or less. He hinted as much to Sir Simon, and he came here with
 that amount of money. Then Sir Simon was murdered----"
@@ -10783,7 +10759,7 @@ wailed Maud.
 willing to hang an innocent man, and marry one whom you thought had
 murdered your father."
 
-"Bruce did _not_ murder Sir Simon," put in Señora Guzman vehemently,
+"Bruce did _not_ murder Sir Simon," put in SeÃ±ora Guzman vehemently,
 "it is not true. I came here, Mr. Herries, to explain all I could, and
 to ask you to come on board the yacht which is at Tarhaven."
 
@@ -10793,13 +10769,13 @@ to ask you to come on board the yacht which is at Tarhaven."
 
 "Why should I pay the money?"
 
-"You said you would," said Señora Guzman vehemently, "and you will
+"You said you would," said SeÃ±ora Guzman vehemently, "and you will
 have to do so if you wish to get the fortune."
 
 An evil light suddenly shone in Maud's eyes, as though the devil had
 whispered some delicious thought.
 
-"Let me come also," she said eagerly to Señora Guzman.
+"Let me come also," she said eagerly to SeÃ±ora Guzman.
 
 "No. We do not want you."
 
@@ -10813,10 +10789,10 @@ about myself, and Captain Kyles."
 "You shan't come----"
 
 "She shall," said Herries in a peremptory manner. "I want everyone to
-be present at the clearing up of this affair. Not a word, Señora, Miss
+be present at the clearing up of this affair. Not a word, SeÃ±ora, Miss
 Tedder comes with me, or I don't set foot on the yacht."
 
-Señora Guzman shrugged her shoulders.
+SeÃ±ora Guzman shrugged her shoulders.
 
 "Very good," she said insolently, "Bring her if you like. But I have
 said all, so I will go."
@@ -10854,11 +10830,11 @@ at once to bed when Herries brought her back, and remained alone in
 the drawing-room with the young man.
 
 "I know that Maud went to the 'Marsh Inn' in response to an invitation
-from Señora Guzman," she said gravely, "but I did not expect that you
+from SeÃ±ora Guzman," she said gravely, "but I did not expect that you
 would bring her back, Mr. Herries."
 
 "I was there also," he replied, quietly, "I went to meet Mr. Gowrie
-and found Señora Guzman instead. Maud got into trouble."
+and found SeÃ±ora Guzman instead. Maud got into trouble."
 
 "With that woman?"
 
@@ -10948,16 +10924,16 @@ gain her ends. She loves this Captain Kyles so much that she would do
 anything to become his wife. You know that she was quite ready to
 sacrifice you, Mr. Herries."
 
-"And Señora Guzman also," said the young man, rather startled at what
+"And SeÃ±ora Guzman also," said the young man, rather startled at what
 he had heard, "since she accuses her wrongfully."
 
 Mrs. Mountford looked gravely at him.
 
 "I believe that Captain Kyles killed Sir Simon," she said decisively,
-"and Señora Guzman may not be so innocent as you imagine. The Captain
+"and SeÃ±ora Guzman may not be so innocent as you imagine. The Captain
 was certainly at the 'Marsh Inn' on that night, since you say Maud saw
 him looking up at the window wherein Sir Simon had placed his signal.
-Also Señora Guzman was in the neighbourhood and had that policeman
+Also SeÃ±ora Guzman was in the neighbourhood and had that policeman
 kidnapped."
 
 "All these things look suspicious," assented Herries, "yet, since
@@ -11049,7 +11025,7 @@ pretty, cunning, dangerous woman, as that conceived by Miss Braddon.
 Having made up his mind how to act towards his unfortunate cousin,
 Herries returned home, and told Browne and Elspeth all that had
 occurred. Both of them were much astonished, and were divided as to
-who was guilty of the crime. Elspeth fancied that Señora Guzman was
+who was guilty of the crime. Elspeth fancied that SeÃ±ora Guzman was
 guilty. Browne held that Kyles was the criminal. Herries shook his
 head.
 
@@ -11072,7 +11048,7 @@ money."
 "The worst side of her, perhaps."
 
 "Has she any better side? If so, I should be glad to know it. But I
-wish I knew where your father is at present. Señora Guzman is aware of
+wish I knew where your father is at present. SeÃ±ora Guzman is aware of
 his hiding-place, but she won't tell."
 
 "Why is he hiding?" asked Browne, very directly. "Really, I don't
@@ -11111,7 +11087,7 @@ to-morrow, and inform him of the proposed meeting. After I get
 the truth,--whatever it may be,--out of Kyles, Trent can come on
 board and arrest the guilty person."
 
-"Señora Guzman!" said Elspeth.
+"SeÃ±ora Guzman!" said Elspeth.
 
 "Captain Kyles," ventured Browne, but not very eagerly.
 
@@ -11219,7 +11195,7 @@ of the pier to look at her through a glass. She seemed a very pretty
 little craft of the piratical order. Herries was half minded to take a
 boat and board her, but on second thoughts he determined not to be so
 rash. While he was watching he saw a launch put off, and saw also that
-there was a lady in it. Thinking that this was Señora Guzman, he
+there was a lady in it. Thinking that this was SeÃ±ora Guzman, he
 waited, and waved his hand. As the boat drew near the pier she
 recognised him, and made the sailors row longside. Herries went down
 the steps, and she gave him a letter.
@@ -11299,7 +11275,7 @@ solicitor promptly. "Captain Kyles is taking them out."
 "But I thought that he was not allowed to enter the Republican
 territory again?"
 
-"Oh, he's made all that square. He and Señora Guzman are steaming back
+"Oh, he's made all that square. He and SeÃ±ora Guzman are steaming back
 to Indiana to-morrow," replied Ritson, lying frankly.
 
 "I'll go too," muttered Maud, "that is, if----" she huddled her wraps
@@ -11444,7 +11420,7 @@ business," he said.
 and cutting as an east wind.
 
 Maud recognised her rival with a snarl like that of an angry cat, and
-looked defiantly at her. Señora Guzman, in a richly trimmed dinner
+looked defiantly at her. SeÃ±ora Guzman, in a richly trimmed dinner
 dress, which well became her beauty, was standing at the door of her
 berth, and her face grew pale with wrath, as she gazed at the insolent
 baby face of Miss Tedder.
@@ -11456,7 +11432,7 @@ baby face of Miss Tedder.
 "He is the skipper, and my servant. How dare you thrust yourself here
 uninvited?"
 
-"I brought her, Señora," said Herries, firmly, "and it will be as well
+"I brought her, SeÃ±ora," said Herries, firmly, "and it will be as well
 to postpone any conversation you may wish to have, until we have
 despatched the business we have come about."
 
@@ -11467,7 +11443,7 @@ philosophic Gowrie,--felt uneasy at their attitude.
 the late Mistress Gowrie is unnergrund, for never again wull I trust
 my ain precious sel' tae sic jades as they."
 
-"After the business is ended we can speak," said Señora Guzman, and
+"After the business is ended we can speak," said SeÃ±ora Guzman, and
 sat down disdainfully.
 
 "I'll be only too glad," snapped Maud likewise sinking down. "You're
@@ -11550,7 +11526,7 @@ there, and described with indignation how he had been kidnapped while
 searching for the box buried by Mrs. Narby. In the midst of his
 diatribes, the Captain cut him short.
 
-"I learned from Señora Guzman that Mrs. Narby had gone to see her
+"I learned from SeÃ±ora Guzman that Mrs. Narby had gone to see her
 son in London," he explained rapidly, "and got the address from the
 maid-servant of the inn. Mrs. Narby had given her the address and had
 told her to send on any letters. On receiving this information I went
@@ -11569,7 +11545,7 @@ knew that the authorities had the numbers."
 presume, went to London to tell him that the box had been found--which
 it was by me, and is now on board,--but he would never connect Kind
 and the stolen notes. Kind presented the note to Pope, who is a fool,
-as a present from Señora Guzman, who admired his poetry. It was for
+as a present from SeÃ±ora Guzman, who admired his poetry. It was for
 fifty pounds, and Pope swallowed the bait. He went out to cash the
 note, as he was short of money. Kind, according to my instructions,
 entered the shop with him, and declared that it was one of the notes
@@ -11618,7 +11594,7 @@ cabin in a hurry.
 
 "I believe he is guilty himself," exclaimed Ritson striking the table.
 
-"You are wrong," remarked Señora Guzman quietly, "Captain Kyles is
+"You are wrong," remarked SeÃ±ora Guzman quietly, "Captain Kyles is
 innocent."
 
 "He isn't," cried Maud, viciously. "I can prove--"
@@ -11708,7 +11684,7 @@ object, with her grey hair disarranged and her bonnet askew. "It wos
 me who cut th' ole man's 'orrid throat. Pope wouldn't 'urt a fly. I
 did h'it fur the tin, so es t' 'elp Pope t' be a great man."
 
-"You don't seem to be surprised, Señora Guzman," said Herries, looking
+"You don't seem to be surprised, SeÃ±ora Guzman," said Herries, looking
 at the composed face of the Mexican lady.
 
 "Captain Kyles told me long ago that Pope Narby was guilty."
@@ -11737,7 +11713,7 @@ for him.
 "And I," cried Maud, rising suddenly and stretching out her arm in a
 threatening manner, "I say that Bruce Kyles is the assassin."
 
-Señora Guzman leaned across the table, and pushed Maud back on to the
+SeÃ±ora Guzman leaned across the table, and pushed Maud back on to the
 divan.
 
 "If you dare to say that, I'll have you thrown overboard. Bruce," she
@@ -11755,7 +11731,7 @@ looked at her quondam lover with agonised appeal.
 
 "I don't love you at all," mumbled the skipper in the most brazen
 manner, and cutting anything but an heroic figure, "you knew that I
-was engaged to Señora Guzman, and yet you wanted me to throw her over
+was engaged to SeÃ±ora Guzman, and yet you wanted me to throw her over
 and be your husband. I never had any intention of marrying you. All I
 wanted was to get money out of your father, and----"
 
@@ -11771,7 +11747,7 @@ buccaneer with determination. "You have acted like a cur towards my
 cousin."
 
 "No, no," moaned Maud, who persisted in believing that Kyles was
-acting a part, because Señora Guzman was present, "if I had the money
+acting a part, because SeÃ±ora Guzman was present, "if I had the money
 he would marry me."
 
 "Very good," said Herries. "Captain Kyles, I offer you half the money
@@ -11819,7 +11795,7 @@ get the shameful tale ended. The rest of the company, even the lively
 Gowrie, held their peace.
 
 "Sir Simon then made his plans. He signed a will disinheriting Maud,
-save for £1,000 a year, and giving the money to you, Herries, provided
+save for Â£1,000 a year, and giving the money to you, Herries, provided
 you found out who killed him, and----"
 
 "Why did he do that?"
@@ -11852,7 +11828,7 @@ I had reason to believe that they got wind of my engagement at the
 the exact time for calling on Sir Simon. He expected me earlier, but I
 said that I might be late, so he invented the red handkerchief signal.
 Well, to make a long story short, I went to the 'Marsh Inn' with
-Señora Guzman----"
+SeÃ±ora Guzman----"
 
 "That is, he went in the launch," she interrupted quickly. "I remained
 on board the launch, and----"
@@ -12135,7 +12111,7 @@ glimpse of Maud's malignant face as she thrust him to his death.
 
 "The money's mine--mine," she cried, clapping her hands.
 
-"And Bruce is mine," said Señora Guzman in her ear, and sent Maud
+"And Bruce is mine," said SeÃ±ora Guzman in her ear, and sent Maud
 Tedder overboard after her victim.
 
 
@@ -12247,7 +12223,7 @@ very much."
 I would have saved her myself in spite of her wickedness had I got my
 wits about me. But I struck my head against the side of the yacht,
 when she pushed me over, and the boatmen dragged me quite stunned into
-their boat. Maud was pushed over immediately afterwards by Señora
+their boat. Maud was pushed over immediately afterwards by SeÃ±ora
 Guzman, and----"
 
 "Who can swear to that?"
@@ -12261,7 +12237,7 @@ the cash. Then she thought that Bruce Kyles would marry her."
 
 "Had she been successful would he have done that?"
 
-"No. He loved Señora Guzman. I think that Kyles behaved very badly.
+"No. He loved SeÃ±ora Guzman. I think that Kyles behaved very badly.
 However, he has vanished out of our lives with the four thousand----"
 
 "Ah," said Elspeth smiling, "Mr. Ritson has never ceased to mourn for
@@ -12273,7 +12249,7 @@ Without that confession, extorted by Kyles from Pope Narby, we would
 never have got the fortune. But it proved beyond all doubt that Pope
 was guilty, so everything has turned out for the best. I do not grudge
 Kyles the money. He's in South America by now, I expect, hunting for
-that treasure along with Señora Guzman and her father.
+that treasure along with SeÃ±ora Guzman and her father.
 
 "What will they do when they find it?"
 
@@ -12382,363 +12358,4 @@ HUNT, BARNARD A CO., LONDON, W., AND AYLESBURY.
 
 End of the Project Gutenberg EBook of Jonah's Luck, by Fergus Hume
 
-*** END OF THIS PROJECT GUTENBERG EBOOK JONAH'S LUCK ***
-
-***** This file should be named 56385-8.txt or 56385-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/6/3/8/56385/
-
-Produced by Charles Bowen from page scans provided by
-Google Books (the University of Wisconsin-Madison)
-
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org Section 3. Information about the Project Gutenberg
-Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 56385 ***
